@@ -4873,5 +4873,50 @@
 "average_speed": 2.11,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10955288677,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2286.4,
+"moving_time": "0:42:13",
+"type": "Hike",
+"start_date": "2024-03-12 11:48:24+00:00",
+"start_date_local": "2024-03-12 19:48:24",
+"location_country": "\u6df3\u5316\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+"summary_polyline": "gd~aEagptUMk@[}@g@y@m@iAIIe@YmAw@oB}@_@KmAI]?cCJMCMKEOCQE{COoB@{AIwAAkBDQFGJELCr@?hDPd@FrADnALrAXpANx@V~@TdA^hAp@j@Vh@d@PVTj@^pBDf@@dAJz@F|@NzAHjAHp@Pt@p@pBJd@?\\QtBQXYP",
+"average_heartrate": 103.9,
+"average_speed": 0.903,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10955288823,
+"name": "\u665a\u95f4\u884c\u8d70",
+"distance": 3813.4,
+"moving_time": "1:02:19",
+"type": "Hike",
+"start_date": "2024-03-13 13:54:41+00:00",
+"start_date_local": "2024-03-13 21:54:41",
+"location_country": "\u5929\u666f\u5c71\u516c\u5bd3\u78a7\u534e\u82d1, \u6df3\u5316\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 211112, \u4e2d\u56fd",
+"summary_polyline": "gu}aEm`ptUt@@h@ILEJIJ[DHH@NGTQZ_@Xk@H]Jo@Ts@BUEcBDe@Nw@D[MaBRhABf@Eb@Wx@EXIhA@LDCABEBK?}@WYCQDWTEICYBEH?`AV`@FP?PCAx@GZg@tBITOR]Va@LSBm@Au@N_@Lg@XOFoEl@qAVU@KCKIEQg@mEWaBKa@i@qASa@q@_Ac@i@}@w@[SoAm@{@S[GYAaEDUEMKIYE]GsBAgAM{CK{ABmADUHONIRAlA@rACxI|@jAT|Cv@bBp@d@Zf@VNLHPL`@R^FT\\vCVhBFdBJr@@h@NzAb@~B@~@LxCALGHUR",
+"average_heartrate": 100.4,
+"average_speed": 1.02,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 10957691765,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 3084.0,
+"moving_time": "0:27:06",
+"type": "Run",
+"start_date": "2024-03-14 12:54:23+00:00",
+"start_date_local": "2024-03-14 20:54:23",
+"location_country": "\u6df3\u5316\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+"summary_polyline": "wd~aEchptUa@kAq@qAsAwAoAy@cA_@gAUy@GgA@cBEQCIGGQ[cEGkEKyB@aA@GFEPCzA?z@Bx@Ft@ArARh@BhATn@D|@NjDz@jAd@~BbATXJRT|@VxClAdLLz@Rr@F`@DjACdCH\\JhAFdCHbADXJrB`@`CFv@J|@FvAJ`@@VJx@R`AB`@ARSb@EDIBmAPu@PqA@_AH",
+"average_heartrate": 144.0,
+"average_speed": 1.897,
+"source": "strava",
+"streak": 4
 }
 ]
