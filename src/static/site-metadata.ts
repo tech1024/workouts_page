@@ -20,7 +20,7 @@ const data: ISiteMetadataResult = {
     {
       name: 'Home',
       url: 'https://runc.vercel.app/',
-    }，
+    }
   ],
 };
 
