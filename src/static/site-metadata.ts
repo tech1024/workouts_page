@@ -11,20 +11,16 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://workout-dev.vercel.app',
-  logo: 'https://telegra.ph/file/557c307e1148b137ede17.jpg',
-  description: 'Personal site and blog',
+  siteTitle: 'Running Map',
+  siteUrl: 'https://runc.vercel.app/',
+  logo: 'https://ossk.cc/file/6b89f83f50c92fd9199ab.png',
+  description: 'Running Map',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://dogwin.top',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/9104c',
-    },
+      name: 'Home',
+      url: 'https://runc.vercel.app/',
+    }，
   ],
 };
 
