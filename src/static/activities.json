@@ -5203,5 +5203,20 @@
 "average_speed": 2.72,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11336346132,
+"name": "Afternoon Walk",
+"distance": 7534.8,
+"moving_time": "1:35:32",
+"type": "Hike",
+"start_date": "2024-05-05 08:29:08+00:00",
+"start_date_local": "2024-05-05 16:29:08",
+"location_country": "\u7384\u6b66\u95e8, \u73af\u6e56\u8def, \u7384\u6b66\u95e8\u8857\u9053, \u7384\u6b66\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 210008, \u4e2d\u56fd",
+"summary_polyline": "q}vbEmw~sUnCi@~AKtAYp@Qn@K|AQ`BGTIVSZo@Js@DwCHkBNeBLyDR{DH}@Pu@h@uAV_@b@_@|@s@fCeCjBwBdBeBPWFQFa@?kANk@H}@VoAXwBDsANyAI_B@qADo@F{@d@uCPqBPeAJeAL_APkC?aBLgA?QE[kA_FEqAH_AFg@J_@HKLa@ZcCt@uDVy@j@w@|@cBl@}@dAgAjAy@|@g@LKFOJ]RsA^cBEYMYOOWOeEsAmEkAWMwBi@YAU@oBb@e@Ra@Z_B~Aa@d@[b@MZKx@Kb@Yj@g@l@SNe@Dk@Ze@Ro@j@k@^YVMRMh@y@x@[Rg@Jm@XiCnBIJALGNEDgCxAMFi@Je@R{@n@y@b@k@`@{Al@yDtBgBv@wDvAqBr@c@Ro@`@_At@yC|AcAr@{@z@OVKTs@|C]nAwA~GBEBMmAp@WVgBlDWt@Id@At@Hl@P\\VZxAtAdAhAHNDP@^Er@i@zFKn@a@bBEf@DXNVZX|@p@RZ@N?PYhAG\\?RDRJL\\VtC|ARR~@tAXXv@l@hCbB^Rx@\\jCpB|ArAf@XtAp@VRJTCJDFDr@Nx@T~B",
+"average_heartrate": 115.4,
+"average_speed": 1.315,
+"source": "strava",
+"streak": 2
 }
 ]
