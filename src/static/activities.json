@@ -5278,5 +5278,20 @@
 "average_speed": 0.996,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 11377260407,
+"name": "Night Run",
+"distance": 2548.9,
+"moving_time": "0:27:24",
+"type": "Run",
+"start_date": "2024-05-10 13:19:55+00:00",
+"start_date_local": "2024-05-10 21:19:55",
+"location_country": "\u6df3\u5316\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+"summary_polyline": "id~aEchptUWw@Sc@kA_B_@k@MMWS}@a@s@[i@QcAOiAIY?k@DqAAOGISEq@IcCGcASyG@g@DSHMLCb@@LAlADb@D\\?lDPh@HvDp@zBj@n@L^JRBRPVNVTt@^NJNj@Vn@HtAJfAHl@Px@Bn@Jh@HhCLpANp@Fv@Lr@LfALfBHvAFd@HvBZ`BXpD",
+"average_heartrate": 121.6,
+"average_speed": 1.55,
+"source": "strava",
+"streak": 7
 }
 ]
