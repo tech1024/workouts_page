@@ -5550,6 +5550,21 @@
 "streak": 3
 },
 {
+"run_id": 11647259540,
+"name": "Evening Run",
+"distance": 4817.7,
+"moving_time": "0:37:07",
+"type": "Run",
+"start_date": "2024-06-12 12:15:02+00:00",
+"start_date_local": "2024-06-12 20:15:02",
+"location_country": "\u79e3\u9675\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+"summary_polyline": "y|~aEmpetU|BU`@Mp@Gb@AZDDDBJ?h@UjACf@GTMLUJwADoAR}@P}ARm@Jk@PwBb@a@D{@BuAb@aA@eADq@FwB`@qAH}CFsB\\KAMGIIISQ}@EmADu@CaABuAQwBEyJMyI?UD[DGJC~AAh@E`AUhBiATGZCJEv@o@ZI\\OTCPIVCl@c@`@KJE|@i@TI|@}@dBiA\\IXOZIp@_@`@KtAs@b@M\\Ov@_@DEJSNILCFBHZ^zBf@pEB|@AFEH_Bx@iA`@aAVeAPc@N{BhA_CtAg@Tk@\\sAf@iBx@u@h@sAn@eAj@s@TUDcAP_AFW@u@C_@GECCKCYGoA?k@IuD@YBIDGNEz@@`@LXDH?HAt@e@p@g@`Aa@lBoARIl@E`Am@b@_@f@UbAq@hFmC|@]",
+"average_heartrate": 155.7,
+"average_speed": 2.163,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 11643156472,
 "name": "Night Walk",
 "distance": 2912.7,
@@ -5562,6 +5577,6 @@
 "average_heartrate": 98.3,
 "average_speed": 1.508,
 "source": "strava",
-"streak": 1
+"streak": 2
 }
 ]
