@@ -5593,5 +5593,20 @@
 "average_speed": 2.544,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11665802822,
+"name": "Evening Walk",
+"distance": 2005.1,
+"moving_time": "0:19:09",
+"type": "Hike",
+"start_date": "2024-06-16 12:45:56+00:00",
+"start_date_local": "2024-06-16 20:45:56",
+"location_country": "\u80dc\u592a\u4e1c\u8def, \u4e1c\u5c71\u8857\u9053, \u6c5f\u5b81\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 211102, \u4e2d\u56fd",
+"summary_polyline": "yw~aEuxftUVlBl@`CJbAPlCV~@D\\AlBHpANxEJbBE\\_@f@RHLR@LCj@IAU@eAPw@Du@N}@BsBT",
+"average_heartrate": 93.2,
+"average_speed": 1.745,
+"source": "strava",
+"streak": 2
 }
 ]
