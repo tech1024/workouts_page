@@ -5803,5 +5803,20 @@
 "average_speed": 2.728,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11878042426,
+"name": "Evening Run",
+"distance": 7480.0,
+"moving_time": "1:00:59",
+"type": "Run",
+"start_date": "2024-07-13 12:58:56+00:00",
+"start_date_local": "2024-07-13 20:58:56",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 149.1,
+"average_speed": 2.044,
+"source": "strava",
+"streak": 1
 }
 ]
